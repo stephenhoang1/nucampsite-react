@@ -6,6 +6,8 @@ import 'typeface-lobster';
 import 'typeface-open-sans';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'font-awesome/css/font-awesome.css';
+import 'bootstrap-social/bootstrap-social.css';
 
 ReactDOM.render(
   <React.StrictMode>
